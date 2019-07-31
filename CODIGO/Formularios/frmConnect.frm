@@ -571,7 +571,7 @@ Private Sub imgTeclas_Click()
 End Sub
 
 Private Sub imgVerForo_Click()
-    Call ShellExecute(0, "Open", "https://www.reddit.com/r/argentumonlineoficial/", "", App.path, SW_SHOWNORMAL)
+    Call ShellExecute(0, "Open", "https://www.reddit.com/r/argentumonlinelibre/", "", App.path, SW_SHOWNORMAL)
 End Sub
 
 Private Sub lstRedditPosts_Click()
